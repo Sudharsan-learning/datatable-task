@@ -1,0 +1,110 @@
+.breadcrum-section {
+  padding: 20px;
+}
+.breadcrum-section p {
+  font-size: 14px;
+  color: #69788c;
+}
+.breadcrum-section p span {
+  padding: 10px;
+}
+.info {
+  background: #fff;
+}
+.info-section {
+  margin-top: 30px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.info-section h1 {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 40px;
+}
+
+.info-section h5 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 10px;
+}
+
+.info-section p {
+  color: #69788c;
+  font-family: Commissioner;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.info-section .info-status {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.info-section .tag {
+  background: #e6ecf0;
+  width: fit-content;
+  border-radius: 20px;
+  padding: 6px 10px;
+  font-size: 12px;
+}
+
+.ml-2 {
+  margin-left: 10px;
+}
+
+.info-section .tag span {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.button-section button span {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+hr {
+  margin: 10px 20px;
+  border: 1px solid #f5f8fa;
+}
+.navbar {
+  margin: 10px 20px;
+  display: flex;
+}
+.navbar p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  padding: 20px;
+}
+
+.info-details {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  /* justify-content: ; */
+  flex-wrap: wrap;
+}
+.info-details .detail {
+  width: 240px;
+  margin: 10px;
+}
+.info-details .detail p {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+}
+.info-details .detail h5 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}

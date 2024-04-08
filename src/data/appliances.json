@@ -1,0 +1,814 @@
+[
+  {
+    "serialNo": "JTD-512312",
+    "theatreName": "Kriplle Square",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    },
+    "ispPaymentResponsibility": "Qube",
+    "bandwidth": "1 Gbps",
+    "avgBandwidth": "812 Kbps",
+    "planStartDate": "2023-10-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Cancelled",
+    "osVersion": "5.2.1.3",
+    "storage": "828 GB"
+  },
+  {
+    "serialNo": "JTD-512313",
+    "theatreName": "Metro Cinema",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "ispPaymentResponsibility": "XYZ Corporation",
+    "bandwidth": "1.2 Gbps",
+    "avgBandwidth": "725 Kbps",
+    "planStartDate": "2023-09-15T10:00:00Z",
+    "billingCycle": "Quarterly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.0.0",
+    "storage": "600 GB"
+  },
+  {
+    "serialNo": "JTD-512314",
+    "theatreName": "Grand Cinema",
+    "location": {
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States"
+    },
+    "ispPaymentResponsibility": "Tech Solutions Inc.",
+    "bandwidth": "800 Mbps",
+    "avgBandwidth": "600 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "7.2.0",
+    "storage": "400 GB"
+  },
+  {
+    "serialNo": "JTD-512315",
+    "theatreName": "Rex Cinema",
+    "location": {
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom"
+    },
+    "ispPaymentResponsibility": "CineTech Solutions",
+    "bandwidth": "2 Gbps",
+    "avgBandwidth": "1.2 Mbps",
+    "planStartDate": "2023-10-20T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloaded",
+    "osVersion": "5.1.0",
+    "storage": "1 TB"
+  },
+  {
+    "serialNo": "JTD-512316",
+    "theatreName": "Palace Theatre",
+    "location": {
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France"
+    },
+    "ispPaymentResponsibility": "ParisTech",
+    "bandwidth": "500 Mbps",
+    "avgBandwidth": "400 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.2.0",
+    "storage": "500 GB"
+  },
+  {
+    "serialNo": "JTD-512317",
+    "theatreName": "Golden Theatre",
+    "location": {
+      "city": "New York City",
+      "state": "New York",
+      "country": "United States"
+    },
+    "ispPaymentResponsibility": "Golden Productions",
+    "bandwidth": "1.5 Gbps",
+    "avgBandwidth": "900 Kbps",
+    "planStartDate": "2023-08-15T10:00:00Z",
+    "billingCycle": "Quarterly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "7.1.0",
+    "storage": "700 GB"
+  },
+  {
+    "serialNo": "JTD-512318",
+    "theatreName": "Silver Screen Cinema",
+    "location": {
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada"
+    },
+    "ispPaymentResponsibility": "CineTech Canada",
+    "bandwidth": "800 Mbps",
+    "avgBandwidth": "650 Kbps",
+    "planStartDate": "2023-09-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "5.3.0",
+    "storage": "1.2 TB"
+  },
+  {
+    "serialNo": "JTD-512319",
+    "theatreName": "Pioneer Cinema",
+    "location": {
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia"
+    },
+    "ispPaymentResponsibility": "CineTech Australia",
+    "bandwidth": "1.2 Gbps",
+    "avgBandwidth": "700 Kbps",
+    "planStartDate": "2023-10-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Scheduled",
+    "osVersion": "6.1.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512320",
+    "theatreName": "Starlight Cinemas",
+    "location": {
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "country": "Japan"
+    },
+    "ispPaymentResponsibility": "TokyoTech",
+    "bandwidth": "1 Gbps",
+    "avgBandwidth": "850 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloaded",
+    "osVersion": "7.0.1",
+    "storage": "900 GB"
+  },
+  {
+    "serialNo": "JTD-512321",
+    "theatreName": "Cineplex Odeon",
+    "location": {
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada"
+    },
+    "ispPaymentResponsibility": "CineTech Canada",
+    "bandwidth": "1.2 Gbps",
+    "avgBandwidth": "750 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Downloaded",
+    "osVersion": "6.2.0",
+    "storage": "1 TB"
+  },
+  {
+    "serialNo": "JTD-512317",
+    "theatreName": "Golden Theatre",
+    "location": {
+      "city": "New York City",
+      "state": "New York",
+      "country": "United States"
+    },
+    "ispPaymentResponsibility": "Golden Productions",
+    "bandwidth": "1.5 Gbps",
+    "avgBandwidth": "900 Kbps",
+    "planStartDate": "2023-08-15T10:00:00Z",
+    "billingCycle": "Quarterly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "7.1.0",
+    "storage": "700 GB"
+  },
+  {
+    "serialNo": "JTD-512318",
+    "theatreName": "Silver Screen Cinema",
+    "location": {
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada"
+    },
+    "ispPaymentResponsibility": "CineTech Canada",
+    "bandwidth": "800 Mbps",
+    "avgBandwidth": "650 Kbps",
+    "planStartDate": "2023-09-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloaded",
+    "osVersion": "5.3.0",
+    "storage": "1.2 TB"
+  },
+  {
+    "serialNo": "JTD-512319",
+    "theatreName": "Pioneer Cinema",
+    "location": {
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia"
+    },
+    "ispPaymentResponsibility": "CineTech Australia",
+    "bandwidth": "1.2 Gbps",
+    "avgBandwidth": "700 Kbps",
+    "planStartDate": "2023-10-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "6.1.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512320",
+    "theatreName": "Starlight Cinemas",
+    "location": {
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "country": "Japan"
+    },
+    "ispPaymentResponsibility": "TokyoTech",
+    "bandwidth": "1 Gbps",
+    "avgBandwidth": "850 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloaded",
+    "osVersion": "7.0.1",
+    "storage": "900 GB"
+  },
+  {
+    "serialNo": "JTD-512321",
+    "theatreName": "Cineplex Odeon",
+    "location": {
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada"
+    },
+    "ispPaymentResponsibility": "CineTech Canada",
+    "bandwidth": "1.2 Gbps",
+    "avgBandwidth": "750 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.2.0",
+    "storage": "1 TB"
+  },
+  {
+    "serialNo": "JTD-512322",
+    "theatreName": "Sunset Theatre",
+    "location": {
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States"
+    },
+    "ispPaymentResponsibility": "Sunset Entertainment",
+    "bandwidth": "1.8 Gbps",
+    "avgBandwidth": "920 Kbps",
+    "planStartDate": "2023-08-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "7.2.0",
+    "storage": "850 GB"
+  },
+  {
+    "serialNo": "JTD-512323",
+    "theatreName": "Royal Cinema",
+    "location": {
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom"
+    },
+    "ispPaymentResponsibility": "Royal Productions",
+    "bandwidth": "2 Gbps",
+    "avgBandwidth": "1.1 Mbps",
+    "planStartDate": "2023-09-15T10:00:00Z",
+    "billingCycle": "Quarterly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.0.0",
+    "storage": "950 GB"
+  },
+  {
+    "serialNo": "JTD-512324",
+    "theatreName": "Empire Cinema",
+    "location": {
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany"
+    },
+    "ispPaymentResponsibility": "Empire Entertainment",
+    "bandwidth": "1.6 Gbps",
+    "avgBandwidth": "800 Kbps",
+    "planStartDate": "2023-10-20T10:00:00Z",
+    "billingCycle": "Monthly",
+
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloaded",
+    "osVersion": "5.1.0",
+    "storage": "1.1 TB"
+  },
+  {
+    "serialNo": "JTD-512325",
+    "theatreName": "Majestic Cinemas",
+    "location": {
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France"
+    },
+    "ispPaymentResponsibility": "Majestic Productions",
+    "bandwidth": "1.4 Gbps",
+    "avgBandwidth": "780 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "6.2.0",
+    "storage": "700 GB"
+  },
+  {
+    "serialNo": "JTD-512326",
+    "theatreName": "Regal Cinema",
+    "location": {
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada"
+    },
+    "ispPaymentResponsibility": "Regal Entertainment",
+    "bandwidth": "1.3 Gbps",
+    "avgBandwidth": "720 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "7.0.0",
+    "storage": "1 TB"
+  },
+  {
+    "serialNo": "JTD-512327",
+    "theatreName": "CineStar Cinemas",
+    "location": {
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany"
+    },
+    "ispPaymentResponsibility": "CineStar Productions",
+    "bandwidth": "1.2 Gbps",
+    "avgBandwidth": "700 Kbps",
+    "planStartDate": "2023-08-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Cancelled",
+    "osVersion": "5.3.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512328",
+    "theatreName": "Royal Oak Theatre",
+    "location": {
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia"
+    },
+    "ispPaymentResponsibility": "Royal Oak Productions",
+    "bandwidth": "1.7 Gbps",
+    "avgBandwidth": "850 Kbps",
+    "planStartDate": "2023-09-01T10:00:00Z",
+    "billingCycle": "Quarterly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloaded",
+    "osVersion": "6.1.0",
+    "storage": "950 GB"
+  },
+  {
+    "serialNo": "JTD-512329",
+    "theatreName": "Cinépolis Cinemas",
+    "location": {
+      "city": "Mexico City",
+      "state": "Mexico City",
+      "country": "Mexico"
+    },
+    "ispPaymentResponsibility": "Cinépolis Entertainment",
+    "bandwidth": "1.3 Gbps",
+    "avgBandwidth": "780 Kbps",
+    "planStartDate": "2023-10-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "7.0.1",
+    "storage": "750 GB"
+  },
+  {
+    "serialNo": "JTD-512330",
+    "theatreName": "Cineplex Cinemas",
+    "location": {
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada"
+    },
+    "ispPaymentResponsibility": "Cineplex Entertainment",
+    "bandwidth": "1.8 Gbps",
+    "avgBandwidth": "920 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.2.0",
+    "storage": "1 TB"
+  },
+  {
+    "serialNo": "JTD-512331",
+    "theatreName": "Hollywood Cinema",
+    "location": {
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States"
+    },
+    "ispPaymentResponsibility": "Hollywood Productions",
+    "bandwidth": "1.6 Gbps",
+    "avgBandwidth": "800 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Downloading",
+    "osVersion": "5.1.0",
+    "storage": "850 GB"
+  },
+  {
+    "serialNo": "JTD-512332",
+    "theatreName": "Cinema Paradiso",
+    "location": {
+      "city": "Rome",
+      "state": "Lazio",
+      "country": "Italy"
+    },
+    "ispPaymentResponsibility": "Paradiso Productions",
+    "bandwidth": "1.7 Gbps",
+    "avgBandwidth": "900 Kbps",
+    "planStartDate": "2023-08-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Failed",
+    "osVersion": "7.2.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512333",
+    "theatreName": "PVR Cinemas",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "ispPaymentResponsibility": "PVR Ltd.",
+    "bandwidth": "1.3 Gbps",
+    "avgBandwidth": "700 Kbps",
+    "planStartDate": "2023-09-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Cancelled",
+    "osVersion": "5.3.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512334",
+    "theatreName": "Vue Cinemas",
+    "location": {
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom"
+    },
+    "ispPaymentResponsibility": "Vue Entertainment",
+    "bandwidth": "1.8 Gbps",
+    "avgBandwidth": "920 Kbps",
+    "planStartDate": "2023-10-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.2.0",
+    "storage": "1 TB"
+  },
+  {
+    "serialNo": "JTD-512335",
+    "theatreName": "CineStar Cinemas",
+    "location": {
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany"
+    },
+    "ispPaymentResponsibility": "CineStar Productions",
+    "bandwidth": "1.5 Gbps",
+    "avgBandwidth": "850 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Downloaded",
+    "osVersion": "7.0.1",
+    "storage": "900 GB"
+  },
+  {
+    "serialNo": "JTD-512336",
+    "theatreName": "Odeon Cinemas",
+    "location": {
+      "city": "Birmingham",
+      "state": "England",
+      "country": "United Kingdom"
+    },
+    "ispPaymentResponsibility": "Odeon Entertainment",
+    "bandwidth": "1.4 Gbps",
+    "avgBandwidth": "780 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "5.1.0",
+    "storage": "950 GB"
+  },
+  {
+    "serialNo": "JTD-512337",
+    "theatreName": "Cinemark Cinemas",
+    "location": {
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States"
+    },
+    "ispPaymentResponsibility": "Cinemark Inc.",
+    "bandwidth": "1.7 Gbps",
+    "avgBandwidth": "850 Kbps",
+    "planStartDate": "2023-08-15T10:00:00Z",
+    "billingCycle": "Quarterly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "6.0.0",
+    "storage": "700 GB"
+  },
+  {
+    "serialNo": "JTD-512338",
+    "theatreName": "AMC Theatres",
+    "location": {
+      "city": "Kansas City",
+      "state": "Missouri",
+      "country": "United States"
+    },
+    "ispPaymentResponsibility": "AMC Entertainment",
+    "bandwidth": "1.8 Gbps",
+    "avgBandwidth": "920 Kbps",
+    "planStartDate": "2023-09-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloaded",
+    "osVersion": "6.1.0",
+    "storage": "1 TB"
+  },
+  {
+    "serialNo": "JTD-512339",
+    "theatreName": "Cinema City",
+    "location": {
+      "city": "Budapest",
+      "state": "Budapest",
+      "country": "Hungary"
+    },
+    "ispPaymentResponsibility": "Cinema City International",
+    "bandwidth": "1.6 Gbps",
+    "avgBandwidth": "800 Kbps",
+    "planStartDate": "2023-10-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "7.0.1",
+    "storage": "850 GB"
+  },
+  {
+    "serialNo": "JTD-512340",
+    "theatreName": "Cinemax Cinemas",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    },
+    "ispPaymentResponsibility": "Cinemax Productions",
+    "bandwidth": "1.3 Gbps",
+    "avgBandwidth": "700 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Cancelled",
+    "osVersion": "5.3.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512341",
+    "theatreName": "Gaumont Cinemas",
+    "location": {
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France"
+    },
+    "ispPaymentResponsibility": "Gaumont Entertainment",
+    "bandwidth": "1.8 Gbps",
+    "avgBandwidth": "920 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.2.0",
+    "storage": "1 TB"
+  },
+  {
+    "serialNo": "JTD-512342",
+    "theatreName": "Yelmo Cines",
+    "location": {
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "country": "Spain"
+    },
+    "ispPaymentResponsibility": "Yelmo Entertainment",
+    "bandwidth": "1.7 Gbps",
+    "avgBandwidth": "850 Kbps",
+    "planStartDate": "2023-08-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Scheduled",
+    "osVersion": "7.2.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512343",
+    "theatreName": "Event Cinemas",
+    "location": {
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia"
+    },
+    "ispPaymentResponsibility": "Event Hospitality and Entertainment",
+    "bandwidth": "1.4 Gbps",
+    "avgBandwidth": "780 Kbps",
+    "planStartDate": "2023-09-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "5.1.0",
+    "storage": "950 GB"
+  },
+  {
+    "serialNo": "JTD-512344",
+    "theatreName": "UGC Ciné Cité",
+    "location": {
+      "city": "Lyon",
+      "state": "Auvergne-Rhône-Alpes",
+      "country": "France"
+    },
+    "ispPaymentResponsibility": "UGC Entertainment",
+    "bandwidth": "1.6 Gbps",
+    "avgBandwidth": "800 Kbps",
+    "planStartDate": "2023-10-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Downloaded",
+    "osVersion": "6.2.0",
+    "storage": "850 GB"
+  },
+  {
+    "serialNo": "JTD-512345",
+    "theatreName": "Kinopolis Cinemas",
+    "location": {
+      "city": "Frankfurt",
+      "state": "Hesse",
+      "country": "Germany"
+    },
+    "ispPaymentResponsibility": "Kinopolis Productions",
+    "bandwidth": "1.5 Gbps",
+    "avgBandwidth": "850 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "7.0.1",
+    "storage": "900 GB"
+  },
+  {
+    "serialNo": "JTD-512346",
+    "theatreName": "Cineworld Cinemas",
+    "location": {
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom"
+    },
+    "ispPaymentResponsibility": "Cineworld Group",
+    "bandwidth": "1.3 Gbps",
+    "avgBandwidth": "700 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Failed",
+    "osVersion": "5.3.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512347",
+    "theatreName": "UCI Cinemas",
+    "location": {
+      "city": "Cologne",
+      "state": "North Rhine-Westphalia",
+      "country": "Germany"
+    },
+    "ispPaymentResponsibility": "UCI Entertainment",
+    "bandwidth": "1.8 Gbps",
+    "avgBandwidth": "920 Kbps",
+    "planStartDate": "2023-08-15T10:00:00Z",
+    "billingCycle": "Quarterly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.0.0",
+    "storage": "700 GB"
+  },
+  {
+    "serialNo": "JTD-512348",
+    "theatreName": "Village Cinemas",
+    "location": {
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia"
+    },
+    "ispPaymentResponsibility": "Village Roadshow Limited",
+    "bandwidth": "1.7 Gbps",
+    "avgBandwidth": "850 Kbps",
+    "planStartDate": "2023-09-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloaded",
+    "osVersion": "6.1.0",
+    "storage": "950 GB"
+  },
+  {
+    "serialNo": "JTD-512349",
+    "theatreName": "Pathé Cinemas",
+    "location": {
+      "city": "Rotterdam",
+      "state": "South Holland",
+      "country": "Netherlands"
+    },
+    "ispPaymentResponsibility": "Pathé Entertainment",
+    "bandwidth": "1.6 Gbps",
+    "avgBandwidth": "800 Kbps",
+    "planStartDate": "2023-10-15T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "7.0.1",
+    "storage": "850 GB"
+  },
+  {
+    "serialNo": "JTD-512350",
+    "theatreName": "Cinema City",
+    "location": {
+      "city": "Bucharest",
+      "state": "Bucharest",
+      "country": "Romania"
+    },
+    "ispPaymentResponsibility": "Cinema City International",
+    "bandwidth": "1.3 Gbps",
+    "avgBandwidth": "700 Kbps",
+    "planStartDate": "2023-11-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Offline",
+    "downloadStatus": "Failed",
+    "osVersion": "5.3.0",
+    "storage": "800 GB"
+  },
+  {
+    "serialNo": "JTD-512351",
+    "theatreName": "Megarama Cinemas",
+    "location": {
+      "city": "Casablanca",
+      "state": "Casablanca-Settat",
+      "country": "Morocco"
+    },
+    "ispPaymentResponsibility": "Megarama Productions",
+    "bandwidth": "1.8 Gbps",
+
+    "avgBandwidth": "920 Kbps",
+    "planStartDate": "2023-12-01T10:00:00Z",
+    "billingCycle": "Monthly",
+    "deviceStatus": "Online",
+    "downloadStatus": "Downloading",
+    "osVersion": "6.2.0",
+    "storage": "1 TB"
+  }
+]

@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Commissioner", sans-serif;
+  background: #f5f8fa;
+  color: #2d3540;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1320px;
+}
+
+button {
+  cursor: pointer;
+  background: #e6ecf0;
+  padding: 6px 10px;
+  gap: 2px;
+  border-radius: 8px;
+  border: none;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+}
